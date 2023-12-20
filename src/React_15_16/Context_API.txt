@@ -1,0 +1,1 @@
+We can solve the Props Drilling Problem using Context API
